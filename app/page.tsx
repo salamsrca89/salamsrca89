@@ -1,4 +1,4 @@
-import Dashboard from "./dashboard";
+import Dashboard from "./dashboard.tsx";
 
 export const dynamic = "force-dynamic";
 
