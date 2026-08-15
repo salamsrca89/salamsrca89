@@ -1,6 +1,7 @@
 name = "salamsrca89"
 compatibility_date = "2026-06-01"
-
+compatibility_flags = ["nodejs_compat"]
+main = "vinext/server/app-router-entry"
 [vars]
 # ترك الفراغ هنا ليعتمد على اللوحة أو التثبيت المباشر
 
