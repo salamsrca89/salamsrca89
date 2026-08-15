@@ -4,11 +4,3 @@ compatibility_date = "2026-06-01"
 [vars]
 # ترك الفراغ هنا ليعتمد على اللوحة أو التثبيت المباشر
 
-[[d1_databases]]
-binding = "DB"
-database_name = "salamsrca-db"
-database_id = "salamsrca-db"
-
-[[r2_buckets]]
-binding = "BUCKET"
-bucket_name = "site-creator-r2"
