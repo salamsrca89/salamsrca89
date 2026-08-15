@@ -1,6 +1,9 @@
 name = "salamsrca89-1"
 compatibility_date = "2026-06-01"
 
+[vars]
+# ترك الفراغ هنا ليعتمد على اللوحة أو التثبيت المباشر
+
 [[d1_databases]]
 binding = "DB"
 database_name = "salamsrca-db"
